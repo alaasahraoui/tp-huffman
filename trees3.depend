@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1548957591 source:c:\users\privé\desktop\tp1-algo\trees3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
